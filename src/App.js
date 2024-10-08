@@ -3,7 +3,7 @@ import ContactManager from './components/ContactManager';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <ContactManager />
     </div>
   );
